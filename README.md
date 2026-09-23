@@ -87,8 +87,7 @@ Plotted a **bar chart** of `Admission_Type` counts using `value_counts().plot(ki
 
 The final step of the notebook generates a bar chart showing the count of patients by `Admission_Type`. This is the key visual takeaway of the EDA — it highlights which admission category is most common in the dataset.
 
-*(See the chart rendered in the notebook / chat output. Save the chart image, e.g. `admission_type_chart.png`, in this repo and reference it below if you'd like it embedded here:)*
-
+"C:\Users\Sathya Padma\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 091746.png"
 ```markdown
 ![Admission Type Distribution](admission_type_chart.png)
 ```
